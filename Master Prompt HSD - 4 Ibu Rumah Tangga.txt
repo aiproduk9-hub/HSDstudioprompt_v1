@@ -1,0 +1,50 @@
+Buatkan 3 prompt video untuk Veo tentang konten brand HSD
+(Black Garlic Solo HSD — difermentasi 90 hari, tekstur kenyal, rasa manis, tidak bau langu).
+
+TOPIK: [TOPIK]
+
+KARAKTER: Ibu rumah tangga, hangat dan ramah. Karakter sesuai yang terlampir.
+GAYA VISUAL: Realistis, natural, pencahayaan hangat dapur sore hari, nuansa personal homey.
+LOKASI: Lokasi sesuai yang terlampir — dapur rumah.
+KAMERA: Medium shot, sedikit dolly-in perlahan, handheld ringan.
+TONE NARASI: Hangat, ramah, seperti berbagi tips ke tetangga. Bahasa Indonesia.
+GAYA TEKS OVERLAY: Tulisan tangan rapi gaya spidol warna, di atas sticky note kuning atau
+hijau muda, efek seolah ditulis live di atas footage, warna tinta gelap, ditempel natural
+di background dapur atau samping produk.
+
+ATURAN WAJIB:
+- Prompt video: instruksi visual bebas, tidak ada batasan kata.
+- Narasi VO 1: PERSIS 17 kata. Hook memancing penasaran, open loop (belum menjawab).
+- Narasi VO 2: PERSIS 21 kata. Jawab open loop, sampaikan 1-2 fakta menarik.
+- Narasi VO 3: PERSIS 21 kata. Pendalaman atau sudut pandang baru, soft-mention produk HSD.
+- Teks overlay WAJIB diambil dari kata kunci narasi VO yang sama di tiap blok (sync isi narasi).
+- Narasi VO wajib diformat: kemudian ibu tersebut berbicara menggunakan bahasa Indonesia: "..."
+- Semua elemen (visual + narasi + teks overlay) digabung jadi 1 blok per prompt.
+- Format WAJIB: sebut lokasi sebagai "lokasi sesuai yang terlampir", karakter sebagai "karakter sesuai yang terlampir", dan kemasan sebagai "kemasan sesuai yang terlampir" — DILARANG mendeskripsikan atau mengarang detail visual lokasi/karakter/kemasan sendiri di luar itu.
+- DILARANG menyebut, membahas, atau menyinggung harga, diskon, promo, atau nominal apapun — baik di narasi VO maupun teks overlay.
+- DILARANG: CTA keras, klaim absolut/medis. Fokus edukasi & informatif.
+- Selain 3 prompt video, buat juga 1 PROMPT GAMBAR terpisah (foto statis, TANPA teks overlay — gambar ini jadi acuan visual untuk video). Karakter sesuai yang terlampir, kemasan (termasuk ukuran, bentuk, warna, label) sesuai yang terlampir. Lokasi BEBAS dijelaskan sendiri — pilih dan deskripsikan lokasi yang paling cocok untuk topik.
+- Aksi/pose karakter di prompt gambar WAJIB nyambung/konsisten dengan aksi di ketiga prompt video (Gen1-3) — kalau di gambar karakter memegang atau berinteraksi dengan kemasan produk, di video juga harus memegang/berinteraksi dengan kemasan produk yang sama, DILARANG memunculkan objek atau aksi lain yang tidak nyambung (misal pegang benda lain yang tidak disebut di gambar).
+- WAJIB VARIATIF SETIAP GENERATE: aksi/pose karakter (dilarang selalu "duduk di meja dapur" — bisa nyuci sayur, buka toples, nuang teh, berdiri dekat kompor/kulkas/jendela, dll), sudut kamera/framing, detail suasana dapur, isi narasi VO, dan pilihan kata overlay harus berbeda dari hasil generate sebelumnya untuk topik lain — dilarang mengulang pola yang sama terus-menerus. Variasi tetap harus masuk akal untuk konteks dapur rumah dan tidak melanggar batasan lokasi/karakter/kemasan yang sudah ditentukan di atas.
+
+FORMAT OUTPUT — ikuti persis, tidak ada teks lain di luar ini:
+
+COPY GEN1 — PASTE LANGSUNG KE VEO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[scene (lokasi sesuai yang terlampir) + kamera + aksi, karakter sesuai yang terlampir, kemasan sesuai yang terlampir. Kemudian ibu tersebut berbicara menggunakan bahasa Indonesia: "[17 kata]". Teks overlay muncul bertahap mengikuti narasi: saat kata "[kunci narasi]" diucapkan muncul sticky note "[Overlay]" seolah ditempel, saat kata "[kunci narasi]" diucapkan muncul sticky note "[Overlay]" — gaya tulisan tangan spidol hangat, ditulis live di atas footage.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COPY GEN2 — PASTE LANGSUNG KE VEO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[scene (lokasi sesuai yang terlampir) + kamera + aksi, karakter sesuai yang terlampir, kemasan sesuai yang terlampir. Kemudian ibu tersebut berbicara menggunakan bahasa Indonesia: "[21 kata]". Teks overlay muncul bertahap mengikuti narasi: saat kata "[kunci narasi]" diucapkan muncul sticky note "[Overlay]" seolah ditempel, saat kata "[kunci narasi]" diucapkan muncul sticky note "[Overlay]" — gaya tulisan tangan spidol hangat, ditulis live di atas footage.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COPY GEN3 — PASTE LANGSUNG KE VEO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[scene (lokasi sesuai yang terlampir) + kamera + aksi, karakter sesuai yang terlampir, kemasan sesuai yang terlampir. Kemudian ibu tersebut berbicara menggunakan bahasa Indonesia: "[21 kata]". Teks overlay muncul bertahap mengikuti narasi: saat kata "[kunci narasi]" diucapkan muncul sticky note "[Overlay]" seolah ditempel, saat kata "[kunci narasi]" diucapkan muncul sticky note "[Overlay]" — gaya tulisan tangan spidol hangat, ditulis live di atas footage.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COPY IMAGE — PASTE LANGSUNG KE TOOL GAMBAR:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[deskripsi foto statis, tanpa teks overlay: pose + komposisi, pencahayaan hangat, karakter sesuai yang terlampir, kemasan (termasuk ukuran, bentuk, warna, label) sesuai yang terlampir. Lokasi: jelaskan lokasi dapur yang paling cocok & menarik untuk topik ini.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

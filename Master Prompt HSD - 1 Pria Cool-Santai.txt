@@ -1,0 +1,43 @@
+Buatkan 3 prompt video untuk Veo tentang konten brand HSD
+(Black Garlic Solo HSD — difermentasi 90 hari, tekstur kenyal, rasa manis, tidak bau langu).
+
+TOPIK: [TOPIK]
+
+KARAKTER: Pria muda gaya cool-santai. Karakter sesuai yang terlampir.
+GAYA VISUAL: Paper cutout collage. Warm cream/beige paper background. Karakter & produk sebagai
+paper sticker, drop shadow, parallax lembut, torn-paper text, stamp/pop effect.
+LOKASI: Bebas, tidak terikat lampiran lokasi tertentu — paper background hangat krem, elemen kertas kolase.
+KAMERA: Medium shot, eye-level, gentle drift + punch-in ringan.
+TONE NARASI: Santai, cool, percaya diri. Bahasa Indonesia.
+GAYA TEKS OVERLAY: Bold condensed uppercase, gaya label stiker, sedikit miring ±3°,
+efek stamp/pop, warna hitam di atas strip kertas krem/putih — gaya zine/streetwear.
+
+ATURAN WAJIB:
+- Prompt video: instruksi visual bebas, tidak ada batasan kata.
+- Narasi VO 1: PERSIS 17 kata. Hook memancing penasaran, open loop (belum menjawab).
+- Narasi VO 2: PERSIS 21 kata. Jawab open loop, sampaikan 1-2 fakta menarik.
+- Narasi VO 3: PERSIS 21 kata. Pendalaman fakta atau sudut pandang baru, soft-mention produk HSD.
+- Teks overlay WAJIB diambil dari kata kunci narasi VO yang sama di tiap blok (sync isi narasi).
+- Narasi VO wajib diformat: kemudian pria tersebut berbicara menggunakan bahasa Indonesia: "..."
+- Semua elemen (visual + narasi + teks overlay) digabung jadi 1 blok per prompt.
+- Format WAJIB: sebut karakter sebagai "karakter sesuai yang terlampir" dan kemasan sebagai "kemasan sesuai yang terlampir" — DILARANG mendeskripsikan atau mengarang detail visual karakter/kemasan sendiri di luar itu. Lokasi bebas dideskripsikan sesuai kreativitas (tidak terikat lampiran).
+- DILARANG menyebut, membahas, atau menyinggung harga, diskon, promo, atau nominal apapun — baik di narasi VO maupun teks overlay.
+- DILARANG: CTA keras, klaim absolut/medis. Fokus edukasi & informatif.
+- WAJIB VARIATIF SETIAP GENERATE: aksi/pose karakter, sudut kamera/framing, detail suasana lokasi, isi narasi VO, dan pilihan kata overlay harus berbeda dari hasil generate sebelumnya untuk topik lain — dilarang mengulang pola yang sama terus-menerus (misal karakter selalu dalam posisi/gestur yang itu-itu saja). Variasi tetap harus masuk akal dan tidak melanggar batasan lokasi/karakter/kemasan yang sudah ditentukan di atas.
+
+FORMAT OUTPUT — ikuti persis, tidak ada teks lain di luar ini:
+
+COPY GEN1 — PASTE LANGSUNG KE VEO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[scene (lokasi bebas) + kamera + aksi, karakter sesuai yang terlampir, kemasan sesuai yang terlampir. Kemudian pria tersebut berbicara menggunakan bahasa Indonesia: "[17 kata]". Teks overlay muncul bertahap mengikuti narasi: saat kata "[kunci narasi]" diucapkan muncul teks "[OVERLAY]", saat kata "[kunci narasi]" diucapkan muncul teks "[OVERLAY]" — bold condensed uppercase, efek stamp, sedikit miring, hitam di atas strip kertas krem.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COPY GEN2 — PASTE LANGSUNG KE VEO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[scene (lokasi bebas) + kamera + aksi, karakter sesuai yang terlampir, kemasan sesuai yang terlampir. Kemudian pria tersebut berbicara menggunakan bahasa Indonesia: "[21 kata]". Teks overlay muncul bertahap mengikuti narasi: saat kata "[kunci narasi]" diucapkan muncul teks "[OVERLAY]", saat kata "[kunci narasi]" diucapkan muncul teks "[OVERLAY]" — bold condensed uppercase, efek stamp, sedikit miring, hitam di atas strip kertas krem.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COPY GEN3 — PASTE LANGSUNG KE VEO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[scene (lokasi bebas) + kamera + aksi, karakter sesuai yang terlampir, kemasan sesuai yang terlampir. Kemudian pria tersebut berbicara menggunakan bahasa Indonesia: "[21 kata]". Teks overlay muncul bertahap mengikuti narasi: saat kata "[kunci narasi]" diucapkan muncul teks "[OVERLAY]", saat kata "[kunci narasi]" diucapkan muncul teks "[OVERLAY]" — bold condensed uppercase, efek stamp, sedikit miring, hitam di atas strip kertas krem.]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
